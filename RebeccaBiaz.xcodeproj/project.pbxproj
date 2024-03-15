@@ -25,6 +25,7 @@
 		35A8792F2BA43FF400C9B737 /* ScoreBoardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A8792E2BA43FF400C9B737 /* ScoreBoardViewModel.swift */; };
 		35A879322BA44FA300C9B737 /* ScoreCardTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879312BA44FA300C9B737 /* ScoreCardTableViewCell.swift */; };
 		35A879352BA45A3400C9B737 /* UIImageView+Load.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879342BA45A3400C9B737 /* UIImageView+Load.swift */; };
+		35A879382BA4693600C9B737 /* GamePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879372BA4693600C9B737 /* GamePageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		35A8792E2BA43FF400C9B737 /* ScoreBoardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreBoardViewModel.swift; sourceTree = "<group>"; };
 		35A879312BA44FA300C9B737 /* ScoreCardTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCardTableViewCell.swift; sourceTree = "<group>"; };
 		35A879342BA45A3400C9B737 /* UIImageView+Load.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Load.swift"; sourceTree = "<group>"; };
+		35A879372BA4693600C9B737 /* GamePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamePageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 		35A878FD2BA3973300C9B737 /* RebeccaBiaz */ = {
 			isa = PBXGroup;
 			children = (
+				35A879362BA4691D00C9B737 /* ViewControllers */,
 				35A879332BA45A1B00C9B737 /* Extension */,
 				35A879302BA44F7500C9B737 /* Cells */,
 				35A8792D2BA43FE000C9B737 /* ViewModels */,
@@ -88,7 +91,6 @@
 				35A8792A2BA4390A00C9B737 /* Assets */,
 				35A878FE2BA3973300C9B737 /* AppDelegate.swift */,
 				35A879002BA3973300C9B737 /* SceneDelegate.swift */,
-				35A879022BA3973300C9B737 /* HomeViewController.swift */,
 				35A879042BA3973300C9B737 /* Main.storyboard */,
 				35A879092BA3973400C9B737 /* LaunchScreen.storyboard */,
 				35A8790C2BA3973400C9B737 /* Info.plist */,
@@ -149,6 +151,15 @@
 				35A879342BA45A3400C9B737 /* UIImageView+Load.swift */,
 			);
 			path = Extension;
+			sourceTree = "<group>";
+		};
+		35A879362BA4691D00C9B737 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				35A879022BA3973300C9B737 /* HomeViewController.swift */,
+				35A879372BA4693600C9B737 /* GamePageViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,6 +240,7 @@
 				35A879322BA44FA300C9B737 /* ScoreCardTableViewCell.swift in Sources */,
 				35A879182BA4372000C9B737 /* Venue.swift in Sources */,
 				35A8791C2BA4378E00C9B737 /* League.swift in Sources */,
+				35A879382BA4693600C9B737 /* GamePageViewController.swift in Sources */,
 				35A8792F2BA43FF400C9B737 /* ScoreBoardViewModel.swift in Sources */,
 				35A878FF2BA3973300C9B737 /* AppDelegate.swift in Sources */,
 				35A879012BA3973300C9B737 /* SceneDelegate.swift in Sources */,

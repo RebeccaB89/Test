@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "fc24-hero-md-accessbility-portal-7x2-xl.jpg.adapt.crop3x5.320w.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
