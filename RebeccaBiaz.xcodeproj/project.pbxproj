@@ -9,21 +9,45 @@
 /* Begin PBXBuildFile section */
 		35A878FF2BA3973300C9B737 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A878FE2BA3973300C9B737 /* AppDelegate.swift */; };
 		35A879012BA3973300C9B737 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879002BA3973300C9B737 /* SceneDelegate.swift */; };
-		35A879032BA3973300C9B737 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879022BA3973300C9B737 /* ViewController.swift */; };
+		35A879032BA3973300C9B737 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879022BA3973300C9B737 /* HomeViewController.swift */; };
 		35A879062BA3973300C9B737 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35A879042BA3973300C9B737 /* Main.storyboard */; };
 		35A879082BA3973400C9B737 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35A879072BA3973400C9B737 /* Assets.xcassets */; };
 		35A8790B2BA3973400C9B737 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35A879092BA3973400C9B737 /* LaunchScreen.storyboard */; };
+		35A879142BA435C100C9B737 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879132BA435C100C9B737 /* Game.swift */; };
+		35A879162BA4366200C9B737 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879152BA4366200C9B737 /* Page.swift */; };
+		35A879182BA4372000C9B737 /* Venue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879172BA4372000C9B737 /* Venue.swift */; };
+		35A8791A2BA4375100C9B737 /* Fixture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879192BA4375100C9B737 /* Fixture.swift */; };
+		35A8791C2BA4378E00C9B737 /* League.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A8791B2BA4378E00C9B737 /* League.swift */; };
+		35A8791E2BA437F900C9B737 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A8791D2BA437F900C9B737 /* Team.swift */; };
+		35A879202BA4382400C9B737 /* ScoreboardCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A8791F2BA4382400C9B737 /* ScoreboardCard.swift */; };
+		35A879232BA438B800C9B737 /* ScoreboardService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879222BA438B800C9B737 /* ScoreboardService.swift */; };
+		35A8792C2BA4393700C9B737 /* matchs.json in Resources */ = {isa = PBXBuildFile; fileRef = 35A8792B2BA4393700C9B737 /* matchs.json */; };
+		35A8792F2BA43FF400C9B737 /* ScoreBoardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A8792E2BA43FF400C9B737 /* ScoreBoardViewModel.swift */; };
+		35A879322BA44FA300C9B737 /* ScoreCardTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879312BA44FA300C9B737 /* ScoreCardTableViewCell.swift */; };
+		35A879352BA45A3400C9B737 /* UIImageView+Load.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A879342BA45A3400C9B737 /* UIImageView+Load.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		35A878FB2BA3973300C9B737 /* RebeccaBiaz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RebeccaBiaz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35A878FE2BA3973300C9B737 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35A879002BA3973300C9B737 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		35A879022BA3973300C9B737 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		35A879022BA3973300C9B737 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		35A879052BA3973300C9B737 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		35A879072BA3973400C9B737 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35A8790A2BA3973400C9B737 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35A8790C2BA3973400C9B737 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35A879132BA435C100C9B737 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		35A879152BA4366200C9B737 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
+		35A879172BA4372000C9B737 /* Venue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Venue.swift; sourceTree = "<group>"; };
+		35A879192BA4375100C9B737 /* Fixture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fixture.swift; sourceTree = "<group>"; };
+		35A8791B2BA4378E00C9B737 /* League.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = League.swift; sourceTree = "<group>"; };
+		35A8791D2BA437F900C9B737 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		35A8791F2BA4382400C9B737 /* ScoreboardCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreboardCard.swift; sourceTree = "<group>"; };
+		35A879222BA438B800C9B737 /* ScoreboardService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreboardService.swift; sourceTree = "<group>"; };
+		35A8792B2BA4393700C9B737 /* matchs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = matchs.json; sourceTree = "<group>"; };
+		35A8792E2BA43FF400C9B737 /* ScoreBoardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreBoardViewModel.swift; sourceTree = "<group>"; };
+		35A879312BA44FA300C9B737 /* ScoreCardTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCardTableViewCell.swift; sourceTree = "<group>"; };
+		35A879342BA45A3400C9B737 /* UIImageView+Load.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Load.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +80,75 @@
 		35A878FD2BA3973300C9B737 /* RebeccaBiaz */ = {
 			isa = PBXGroup;
 			children = (
+				35A879332BA45A1B00C9B737 /* Extension */,
+				35A879302BA44F7500C9B737 /* Cells */,
+				35A8792D2BA43FE000C9B737 /* ViewModels */,
+				35A879122BA39A3A00C9B737 /* Models */,
+				35A879212BA438A000C9B737 /* Services */,
+				35A8792A2BA4390A00C9B737 /* Assets */,
 				35A878FE2BA3973300C9B737 /* AppDelegate.swift */,
 				35A879002BA3973300C9B737 /* SceneDelegate.swift */,
-				35A879022BA3973300C9B737 /* ViewController.swift */,
+				35A879022BA3973300C9B737 /* HomeViewController.swift */,
 				35A879042BA3973300C9B737 /* Main.storyboard */,
-				35A879072BA3973400C9B737 /* Assets.xcassets */,
 				35A879092BA3973400C9B737 /* LaunchScreen.storyboard */,
 				35A8790C2BA3973400C9B737 /* Info.plist */,
 			);
 			path = RebeccaBiaz;
+			sourceTree = "<group>";
+		};
+		35A879122BA39A3A00C9B737 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				35A879132BA435C100C9B737 /* Game.swift */,
+				35A879152BA4366200C9B737 /* Page.swift */,
+				35A879172BA4372000C9B737 /* Venue.swift */,
+				35A879192BA4375100C9B737 /* Fixture.swift */,
+				35A8791B2BA4378E00C9B737 /* League.swift */,
+				35A8791D2BA437F900C9B737 /* Team.swift */,
+				35A8791F2BA4382400C9B737 /* ScoreboardCard.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		35A879212BA438A000C9B737 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				35A879222BA438B800C9B737 /* ScoreboardService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		35A8792A2BA4390A00C9B737 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				35A8792B2BA4393700C9B737 /* matchs.json */,
+				35A879072BA3973400C9B737 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		35A8792D2BA43FE000C9B737 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				35A8792E2BA43FF400C9B737 /* ScoreBoardViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		35A879302BA44F7500C9B737 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				35A879312BA44FA300C9B737 /* ScoreCardTableViewCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		35A879332BA45A1B00C9B737 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				35A879342BA45A3400C9B737 /* UIImageView+Load.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35A8790B2BA3973400C9B737 /* LaunchScreen.storyboard in Resources */,
+				35A8792C2BA4393700C9B737 /* matchs.json in Resources */,
 				35A879082BA3973400C9B737 /* Assets.xcassets in Resources */,
 				35A879062BA3973300C9B737 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +223,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35A879032BA3973300C9B737 /* ViewController.swift in Sources */,
+				35A879352BA45A3400C9B737 /* UIImageView+Load.swift in Sources */,
+				35A8791E2BA437F900C9B737 /* Team.swift in Sources */,
+				35A879032BA3973300C9B737 /* HomeViewController.swift in Sources */,
+				35A879322BA44FA300C9B737 /* ScoreCardTableViewCell.swift in Sources */,
+				35A879182BA4372000C9B737 /* Venue.swift in Sources */,
+				35A8791C2BA4378E00C9B737 /* League.swift in Sources */,
+				35A8792F2BA43FF400C9B737 /* ScoreBoardViewModel.swift in Sources */,
 				35A878FF2BA3973300C9B737 /* AppDelegate.swift in Sources */,
 				35A879012BA3973300C9B737 /* SceneDelegate.swift in Sources */,
+				35A8791A2BA4375100C9B737 /* Fixture.swift in Sources */,
+				35A879232BA438B800C9B737 /* ScoreboardService.swift in Sources */,
+				35A879142BA435C100C9B737 /* Game.swift in Sources */,
+				35A879162BA4366200C9B737 /* Page.swift in Sources */,
+				35A879202BA4382400C9B737 /* ScoreboardCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

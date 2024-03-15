@@ -1,0 +1,734 @@
+{
+	"response": [
+		{
+			"GameId": "Lazio@AC Milan-$2023-01-24",
+			"teams": {
+				"away": {
+					"name": "AC Milan",
+					"logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 489,
+				},
+				"home": {
+					"name": "Lazio",
+					"id": 487,
+					"logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+				}
+			},
+			"league": {
+				"logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"season": 2022,
+				"country": "Italy",
+				"round": "Regular Season - 19",
+				"id": 135,
+				"flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"name": "Serie A"
+			},
+			"fixture": {
+				"date": "2023-01-24T19:45:00+00:00",
+				"venue": {
+					"name": "Stadio Olimpico",
+					"id": 910,
+					"city": "Roma"
+				},
+				"id": 881965,
+				"referee": "M. Di Bello"
+			}
+		},
+		{
+			"GameId": "Hertha Berlin@VfL Wolfsburg-$2023-01-24",
+			"teams": {
+				"home": {
+					"id": 159,
+					"name": "Hertha Berlin",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+				},
+				"away": {
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "VfL Wolfsburg",
+					"id": 161
+				}
+			},
+			"league": {
+				"country": "Germany",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"id": 78,
+				"season": 2022,
+				"name": "Bundesliga",
+				"round": "Regular Season - 17",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg"
+			},
+			"fixture": {
+				"date": "2023-01-24T19:30:00+00:00",
+				"venue": {
+					"name": "Olympiastadion Berlin",
+					"id": 694,
+					"city": "Berlin"
+				},
+				"id": 871314,
+				"referee": "T. Reichel"
+			},
+			"Game": {
+				"awayTeamName": "VfL Wolfsburg",
+				"gameId": "Hertha Berlin@VfL Wolfsburg-$2023-01-24",
+				"homeTeamName": "Hertha Berlin",
+				"gameTime": "2023-01-24T19:30:00"
+			}
+		},
+		{
+			"league": {
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"country": "Germany",
+				"id": 78,
+				"season": 2022,
+				"name": "Bundesliga",
+				"round": "Regular Season - 17"
+			},
+			"teams": {
+				"away": {
+					"name": "VfB Stuttgart",
+					"id": 172,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+				},
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"id": 167,
+					"name": "1899 Hoffenheim"
+				}
+			},
+			"fixture": {
+				"date": "2023-01-24T19:30:00+00:00",
+				"venue": {
+					"name": "PreZero Arena",
+					"id": 724,
+					"city": "Sinsheim"
+				},
+				"referee": "F. BadstÃ¼bner",
+				"id": 871312
+			},
+			"GameId": "1899 Hoffenheim@VfB Stuttgart-$2023-01-24"
+		},
+		{
+			"Game": {
+				"gameTime": "2023-01-24T19:30:00",
+				"awayTeamName": "FC Cologne",
+				"homeTeamName": "Bayern Munich",
+				"gameId": "Bayern Munich@FC Koln-$2023-01-24",
+                "pages": [
+                    {
+                        "awayScore": 0,
+                        "title": "Bla Bla",
+                        "videoUrl": "...",
+                        "homeScore": 1,
+                        "gameClock": "2023-01-24T19:25:00+00:00",
+                    },
+                    {
+                        "awayScore": 1,
+                        "title": "Bla Bla 2",
+                        "videoUrl": "...",
+                        "homeScore": 1,
+                        "gameClock": "2023-01-24T19:30:00+00:00",
+                    }
+                ]
+			},
+			"teams": {
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Bayern Munich",
+					"id": 157
+				},
+				"away": {
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 192,
+					"name": "FC Koln"
+				}
+			},
+			"league": {
+				"round": "Regular Season - 17",
+				"country": "Germany",
+				"id": 78,
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"name": "Bundesliga",
+				"season": 2022,
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg"
+			},
+			"GameId": "Bayern Munich@FC Koln-$2023-01-24",
+			"fixture": {
+				"id": 871308,
+				"date": "2023-01-24T19:30:00+00:00",
+				"referee": "T. Stieler",
+				"venue": {
+					"id": 700,
+					"name": "Allianz Arena",
+					"city": "MÃ¼nchen"
+				}
+			}
+		},
+		{
+			"Game": {
+				"gameTime": "2023-01-24T17:30:00",
+				"gameId": "FC Schalke 04@RB Leipzig-$2023-01-24",
+				"awayTeamName": "RB Leipzig",
+				"homeTeamName": "Schalke 04",
+			},
+			"fixture": {
+				"date": "2023-01-24T17:30:00+00:00",
+				"venue": {
+					"name": "VELTINS-Arena",
+					"id": 741,
+					"city": "Gelsenkirchen"
+				},
+				"id": 871315,
+				"referee": "B. Cortus"
+			},
+			"teams": {
+				"home": {
+					"name": "FC Schalke 04",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"id": 174
+				},
+				"away": {
+					"name": "RB Leipzig",
+					"id": 173,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+				}
+			},
+			"GameId": "FC Schalke 04@RB Leipzig-$2023-01-24",
+			"league": {
+				"season": 2022,
+				"id": 78,
+				"country": "Germany",
+				"round": "Regular Season - 17",
+				"name": "Bundesliga",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467"
+			}
+		},
+		{
+			"fixture": {
+				"venue": {
+					"name": "Estadio de Mestalla",
+					"id": 1497,
+					"city": "Valencia"
+				},
+				"referee": "JesÃºs Gil",
+				"id": 878120,
+				"date": "2023-01-23T20:00:00+00:00",
+			},
+			"league": {
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"name": "La Liga",
+				"round": "Regular Season - 18",
+				"season": 2022,
+				"id": 140,
+				"country": "Spain",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg"
+			},
+			"Game": {
+				"gameTime": "2023-01-23T20:00:00",
+				"homeTeamName": "Valencia",
+				"gameId": "Valencia@Almeria-$2023-01-23",
+				"awayTeamName": "AlmerÃ­a",
+			},
+			"teams": {
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"id": 532,
+					"name": "Valencia"
+				},
+				"away": {
+					"id": 723,
+					"name": "Almeria",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625"				}
+			},
+			"GameId": "Valencia@Almeria-$2023-01-23"
+		},
+		{
+			"teams": {
+				"away": {
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 47,
+					"name": "Tottenham"
+				},
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"id": 36,
+					"name": "Fulham"
+				}
+			},
+			"league": {
+				"name": "Premier League",
+				"season": 2022,
+				"id": 39,
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"round": "Regular Season - 21",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"country": "England"
+			},
+			"Game": {
+				"homeTeamName": "Fulham FC",
+				"gameId": "Fulham@Tottenham-$2023-01-23",
+				"gameTime": "2023-01-23T20:00:00",
+				"awayTeamName": "Tottenham Hotspur"
+			},
+			"GameId": "Fulham@Tottenham-$2023-01-23",
+			"fixture": {
+				"referee": "P. Tierney",
+				"venue": {
+					"name": "Craven Cottage",
+					"id": 535,
+					"city": "London"
+				},
+				"date": "2023-01-23T20:00:00+00:00",
+				"id": 868149
+			}
+		},
+		{
+			"league": {
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"country": "Italy",
+				"season": 2022,
+				"round": "Regular Season - 19",
+				"id": 135,
+				"name": "Serie A",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467"
+			},
+			"fixture": {
+				"id": 881963,
+				"venue": {
+					"city": "Milano",
+					"id": 907,
+					"name": "Stadio Giuseppe Meazza"
+				},
+				"date": "2023-01-23T19:45:00+00:00",
+				"referee": "A. Rapuano"
+			},
+			"teams": {
+				"home": {
+					"id": 505,
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Inter"
+				},
+				"away": {
+					"id": 511,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "Empoli"
+				}
+			},
+			"GameId": "Inter@Empoli-$2023-01-23"
+		},
+		{
+			"teams": {
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Maccabi Tel Aviv",
+					"id": 604
+				},
+				"away": {
+					"id": 4195,
+					"name": "Maccabi Haifa",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625"				}
+			},
+			"fixture": {
+				"date": "2023-01-23T18:30:00+00:00",
+				"venue": {
+					"city": "Tel-Aviv",
+					"id": 10592,
+					"name": "Bloomfield Stadium"
+				},
+				"id": 865964,
+				"referee": null
+			},
+			"league": {
+				"name": "Ligat Ha'al",
+				"id": 383,
+				"season": 2022,
+				"round": "Regular Season - 19",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"country": "Israel"
+			},
+			"GameId": "Maccabi Tel Aviv@Maccabi Haifa-$2023-01-23",
+			"Game": {
+				"homeTeamName": "Maccabi Tel Aviv",
+				"gameTime": "2023-01-23T18:30:00",
+				"gameId": "Maccabi Tel Aviv@Maccabi Haifa-$2023-01-23",
+				"awayTeamName": "Maccabi Haifa",
+			}
+		},
+		{
+			"fixture": {
+				"id": 881960,
+				"venue": {
+					"id": 881,
+					"name": "Stadio Renato Dall'Ara",
+					"city": "Bologna"
+				},
+				"date": "2023-01-23T17:30:00+00:00",
+				"referee": "M. Marchetti"
+			},
+			"GameId": "Bologna@Cremonese-$2023-01-23",
+			"league": {
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"name": "Serie A",
+				"season": 2022,
+				"round": "Regular Season - 19",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"id": 135,
+				"country": "Italy"
+			},
+			"teams": {
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Bologna",
+					"id": 500
+				},
+				"away": {
+					"id": 520,
+					"name": "Cremonese",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625"				}
+			}
+		},
+		{
+			"league": {
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"id": 140,
+				"season": 2022,
+				"country": "Spain",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"round": "Regular Season - 18",
+				"name": "La Liga"
+			},
+			"GameId": "Athletic Club@Real Madrid-$2023-01-22",
+			"teams": {
+				"home": {
+					"name": "Athletic Club",
+					"id": 531,
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				},
+				"away": {
+					"id": 541,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "Real Madrid"
+				}
+			},
+			"fixture": {
+				"date": "2023-01-22T20:00:00+00:00",
+				"venue": {
+					"city": "Bilbao",
+					"id": 1460,
+					"name": "San MamÃ©s Barria"
+				},
+				"referee": "JosÃ© SÃ¡nchez",
+				"id": 878112,
+			}
+		},
+		{
+			"league": {
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"round": "Regular Season - 19",
+				"season": 2022,
+				"country": "Italy",
+				"id": 135,
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"name": "Serie A"
+			},
+			"teams": {
+				"away": {
+					"name": "Atalanta",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 499
+				},
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Juventus",
+					"id": 496
+				}
+			},
+			"fixture": {
+				"date": "2023-01-22T19:45:00+00:00",
+				"id": 881964,
+				"referee": "L. Marinelli",
+				"venue": {
+					"name": "Allianz Stadium",
+					"city": "Torino",
+					"id": 909
+				}
+			},
+			"GameId": "Juventus@Atalanta-$2023-01-22"
+		},
+		{
+			"league": {
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"country": "Israel",
+				"name": "Ligat Ha'al",
+				"id": 383,
+				"season": 2022,
+				"round": "Regular Season - 19"
+			},
+			"fixture": {
+				"venue": {
+					"city": "Beer Sheva",
+					"id": 867,
+					"name": "Yaakov Turner Toto Stadium"
+				},
+				"id": 865967,
+				"referee": null,
+				"date": "2023-01-22T18:15:00+00:00"
+			},
+			"GameId": "Hapoel Beer Sheva@Maccabi Netanya-$2023-01-22",
+			"Game": {
+				"homeTeamName": "Hapoel Beer Sheva",
+				"gameId": "Hapoel Beer Sheva@Maccabi Netanya-$2023-01-22",
+				"gameTime": "2023-01-22T18:15:00",
+				"awayTeamName": "Maccabi Netanya"
+			},
+			"teams": {
+				"home": {
+					"id": 563,
+					"name": "Hapoel Beer Sheva",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				},
+				"away": {
+					"id": 4505,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "Maccabi Netanya"
+				}
+			}
+		},
+		{
+			"GameId": "Barcelona@Getafe-$2023-01-22",
+			"league": {
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"round": "Regular Season - 18",
+				"country": "Spain",
+				"season": 2022,
+				"id": 140,
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"name": "La Liga"
+			},
+			"fixture": {
+				"venue": {
+					"id": 18630,
+					"name": "Spotify Camp Nou",
+					"city": "Barcelona"
+				},
+				"id": 878114,
+				"date": "2023-01-22T17:30:00+00:00",
+				"referee": "Javier Iglesias"
+			},
+			"Game": {
+				"awayTeamName": "Getafe",
+				"gameTime": "2023-01-22T17:30:00",
+				"gameId": "Barcelona@Getafe-$2023-01-22",
+				"homeTeamName": "Barcelona"
+			},
+			"teams": {
+				"home": {
+					"id": 529,
+					"name": "Barcelona",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				},
+				"away": {
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "Getafe",
+					"id": 546
+				}
+			}
+		},
+		{
+			"teams": {
+				"home": {
+					"name": "Spezia",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"id": 515
+				},
+				"away": {
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 497,
+					"name": "AS Roma"
+				}
+			},
+			"league": {
+				"season": 2022,
+				"country": "Italy",
+				"name": "Serie A",
+				"id": 135,
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"round": "Regular Season - 19",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467"
+			},
+			"GameId": "Spezia@AS Roma-$2023-01-22",
+			"fixture": {
+				"referee": "S. Sozza",
+				"venue": {
+					"city": "La Spezia",
+					"id": 939,
+					"name": "Stadio Alberto Picco"
+				},
+				"date": "2023-01-22T17:00:00+00:00",
+				"id": 881969
+			}
+		},
+		{
+			"GameId": "Borussia Monchengladbach@Bayer Leverkusen-$2023-01-22",
+			"fixture": {
+				"id": 871303,
+				"referee": "H. Osmers",
+				"date": "2023-01-22T16:30:00+00:00",
+				"venue": {
+					"city": "MÃ¶nchengladbach",
+					"name": "Stadion im BORUSSIA-PARK",
+					"id": 703
+				}
+			},
+			"Game": {
+				"awayTeamName": "Bayer Leverkusen",
+				"gameId": "Borussia Monchengladbach@Bayer Leverkusen-$2023-01-22",
+				"homeTeamName": "Borussia Monchengladbach",
+				"gameTime": "2023-01-22T16:30:00",
+			},
+			"league": {
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"name": "Bundesliga",
+				"id": 78,
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"country": "Germany",
+				"round": "Regular Season - 16",
+				"season": 2022
+			},
+			"teams": {
+				"away": {
+					"id": 168,
+					"name": "Bayer Leverkusen",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625"				},
+				"home": {
+					"name": "Borussia Monchengladbach",
+					"id": 163,
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				}
+			}
+		},
+		{
+			"Game": {
+				"gameTime": "2023-01-22T16:30:00",
+				"gameId": "Arsenal@Manchester United-$2023-01-22",
+				"homeTeamName": "Arsenal FC",
+				"awayTeamName": "Manchester United"
+			},
+			"GameId": "Arsenal@Manchester United-$2023-01-22",
+			"league": {
+				"name": "Premier League",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"country": "England",
+				"season": 2022,
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"round": "Regular Season - 21",
+				"id": 39
+			},
+			"teams": {
+				"home": {
+					"name": "Arsenal",
+					"id": 42,
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				},
+				"away": {
+					"id": 33,
+					"name": "Manchester United",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625"
+				}
+			},
+			"fixture": {
+				"id": 868147,
+				"venue": {
+					"name": "Emirates Stadium",
+					"city": "London",
+					"id": 494
+				},
+				"referee": "A. Taylor",
+				"date": "2023-01-22T16:30:00+00:00"
+			}
+		},
+		{
+			"GameId": "Elche@Osasuna-$2023-01-22",
+			"Game": {
+				"awayTeamName": "Osasuna",
+				"homeTeamName": "Elche",
+				"gameId": "Elche@Osasuna-$2023-01-22",
+				"gameTime": "2023-01-22T15:15:00",
+			},
+			"league": {
+				"round": "Regular Season - 18",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+				"country": "Spain",
+				"name": "La Liga",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"id": 140,
+				"season": 2022
+			},
+			"teams": {
+				"home": {
+					"id": 797,
+					"name": "Elche",
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707"
+				},
+				"away": {
+					"id": 727,
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"name": "Osasuna"
+				}
+			},
+			"fixture": {
+				"id": 878115,
+				"venue": {
+					"id": 1473,
+					"name": "Estadio Manuel MartÃ­nez Valero",
+					"city": "Elche"
+				},
+				"referee": "Alejandro MuÃ±iz",
+				"date": "2023-01-22T15:15:00+00:00"
+			}
+		},
+		{
+			"GameId": "Borussia Dortmund@FC Augsburg-$2023-01-22",
+			"fixture": {
+				"date": "2023-01-22T14:30:00+00:00",
+				"venue": {
+					"name": "SIGNAL IDUNA PARK",
+					"id": 19381,
+					"city": "Dortmund"
+				},
+				"referee": "F. Willenborg",
+				"id": 871299
+			},
+			"teams": {
+				"home": {
+                    "logo": "https://images-workbench.99static.com/jvdJIMrJETfEJQbNt4DwKkXKzqg=/99designs-contests-attachments/134/134019/attachment_134019707",
+					"name": "Borussia Dortmund",
+					"id": 165
+				},
+				"away": {
+					"name": "FC Augsburg",
+                    "logo": "https://images-platform.99static.com//3z4_3qiTmQ6vRUjzAgZ1yulMZLM=/0x1001:1000x2001/fit-in/590x590/99designs-contests-attachments/106/106795/attachment_106795625",
+					"id": 170
+				}
+			},
+			"Game": {
+				"gameId": "Borussia Dortmund@FC Augsburg-$2023-01-22",
+				"gameTime": "2023-01-22T14:30:00",
+				"homeTeamName": "Borussia Dortmund",
+				"awayTeamName": "FC Augsburg"
+			},
+			"league": {
+				"country": "Germany",
+				"id": 78,
+				"round": "Regular Season - 16",
+                "logo": "https://images-workbench.99static.com/wAGRWiajM-5Uesxzb7nairoOATs=/99designs-contests-attachments/92/92268/attachment_92268467",
+                "flag": "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+				"season": 2022,
+				"name": "Bundesliga"
+			}
+		}
+	]
+}
