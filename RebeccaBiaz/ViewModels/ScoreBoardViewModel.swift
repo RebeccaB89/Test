@@ -25,7 +25,7 @@ class ScoreBoardViewModel {
         
         if let newCards = service.fetchScoreboards(from: url) {
             scoreboardCards = newCards.filter {
-                return true || ($0.game != nil && $0.game?.pages?.isEmpty == false)
+                return ($0.game != nil && $0.game?.story?.pages?.isEmpty == false)
             }
         }
     }

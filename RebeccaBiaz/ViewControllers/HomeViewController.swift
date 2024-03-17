@@ -67,10 +67,7 @@ extension HomeViewController : ScoreCardTableViewCellDelegate {
               let destinationViewController = segue.destination as? GamePageViewController else {
             return
         }
-        
-//        destinationViewController.viewModel = ScoreboardPagedDetailsViewModel(
-//            from: viewModel.cards[indexPath.section][indexPath.row]
-//        )
+        destinationViewController.scoreboardCard = scoreCard
     }
 }
 

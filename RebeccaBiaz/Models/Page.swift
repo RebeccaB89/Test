@@ -13,13 +13,22 @@ struct Page : Codable, Equatable {
     let awayScore: Int?
     let homeScore: Int?
     let videoUrl: URL?
-    let gameClock: Date?
     
     enum CodingKeys: CodingKey {
         case title
         case awayScore
         case homeScore
         case videoUrl
-        case gameClock
     }
+    
+//    init(from decoder: Decoder) throws {
+//        let container = try decoder.container(keyedBy: CodingKeys.self)
+//        self.title = try container.decodeIfPresent(String.self, forKey: .title)
+//        self.awayScore = try container.decodeIfPresent(Int.self, forKey: .awayScore)
+//        self.homeScore = try container.decodeIfPresent(Int.self, forKey: .homeScore)
+//        self.videoUrl = try container.decodeIfPresent(URL.self, forKey: .videoUrl)
+//
+//        print(container)
+//
+//    }
 }

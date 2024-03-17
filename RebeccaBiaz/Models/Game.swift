@@ -12,12 +12,20 @@ struct Game : Codable, Identifiable, Equatable {
     let id: String
     let awayTeamName: String?
     let homeTeamName: String?
-    let pages: [Page]?
+    let story: Story?
     
     enum CodingKeys: String, CodingKey {
         case id = "gameId"
         case awayTeamName
         case homeTeamName
-        case pages
+        case story = "primeStory"
+    }
+    
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        self.id = try container.decode(String.self, forKey: .id)
+        self.awayTeamName = try container.decodeIfPresent(String.self, forKey: .awayTeamName)
+        self.homeTeamName = try container.decodeIfPresent(String.self, forKey: .homeTeamName)
+        self.story = try container.decodeIfPresent(Story.self, forKey: .story)
     }
 }

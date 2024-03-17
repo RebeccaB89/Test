@@ -29,14 +29,14 @@ class ScoreCardTableViewCell: UITableViewCell {
             homeTeamLabel.text = scoreCard?.teams?.home?.name ?? "Home Team"
             homeImageView.load(url: URL(string: scoreCard?.teams?.home?.logoUrl ?? ""))
             
-            if let homeScore = scoreCard?.game?.pages?.last?.homeScore {
+            if let homeScore = scoreCard?.game?.story?.pages?.last?.homeScore {
                 homeScoreLabel.text = "\(homeScore)"
             }
             
                                
             awayTeamLabel.text = scoreCard?.teams?.away?.name ?? "Away Team"
             awayImageView.load(url: URL(string: scoreCard?.teams?.away?.logoUrl ?? ""))
-            if let awayScore = scoreCard?.game?.pages?.last?.awayScore {
+            if let awayScore = scoreCard?.game?.story?.pages?.last?.awayScore {
                 awayScoreLabel.text = "\(awayScore)"
             }
         }

@@ -16,11 +16,11 @@ struct ScoreboardCard : Codable, Identifiable, Equatable {
     let game: Game?
     
     enum CodingKeys: String, CodingKey {
-        case id = "GameId"
+        case id = "WSCGameId"
         case teams
         case league
         case fixture
-        case game = "Game"
+        case game = "wscGame"
     }
 }
 
